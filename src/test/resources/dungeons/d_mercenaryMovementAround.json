@@ -1,0 +1,38 @@
+{
+    "entities": [
+        {
+            "type" : "wall",
+            "x" : 4,
+            "y" : 6
+        }, {
+            "type" : "wall",
+            "x" : 6,
+            "y" : 6
+        }, {
+            "type": "wall",
+            "x": 5,
+            "y": 6
+        },
+        {
+            "type": "wall",
+            "x": 4,
+            "y": 7
+        },
+        {
+            "type": "wall",
+            "x": 6,
+            "y": 7
+        },
+        {
+            "type" : "player",
+            "x" : 5,
+            "y" : 5
+        },
+        {
+            "type": "mercenary",
+            "x" : 5, 
+            "y" : 7
+        }
+    ],
+    "goal-condition": {"goal": "exit"}
+}

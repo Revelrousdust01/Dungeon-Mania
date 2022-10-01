@@ -1,0 +1,35 @@
+{
+    "entities": [
+        {
+            "type" : "player",
+            "x" : 0,
+            "y" : 0
+        },
+        {
+            "type": "time_travelling_portal",
+            "x": 40,
+            "y": 0
+        },
+        {
+            "type": "wood",
+            "x": 15,
+            "y": 0
+        },
+        {
+            "type": "time_travelling_portal",
+            "x": -10,
+            "y": 0
+        },
+        {
+            "type": "zombie_toast",
+            "x": 0,
+            "y": 40
+        }, 
+        {
+            "type": "spider",
+            "x": 0,
+            "y": -40
+        }
+    ],
+    "goal-condition": {"goal": "treasure"}
+}

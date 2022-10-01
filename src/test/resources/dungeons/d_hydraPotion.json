@@ -1,0 +1,26 @@
+{
+    "entities": [
+        {
+            "type" : "player",
+            "x" : 0,
+            "y" : 0
+        },
+        {
+            "type": "invincibility_potion",
+            "x" : 1, 
+            "y" : 0
+        },
+        {   "type": "wall",
+            "x" : 2, 
+            "y" : 0
+        },
+        {
+            "type": "hydra",
+            "x" : 20, 
+            "y" : 20
+        }
+
+
+    ],
+    "goal-condition": {"goal": "exit"}
+}

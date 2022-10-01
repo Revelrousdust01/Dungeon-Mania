@@ -1,0 +1,35 @@
+{
+    "entities": [
+        {
+            "type" : "player",
+            "x" : 0,
+            "y" : 0
+        },
+        {
+            "type" : "time_turner",
+            "x" : 1,
+            "y" : 0
+        },
+        {
+            "type": "exit",
+            "x": 3,
+            "y": 3
+        },
+        {
+            "type": "time_travelling_portal",
+            "x": -10,
+            "y": 0
+        },
+        {
+            "type": "boulder",
+            "x": -5,
+            "y": 1
+        },
+        {
+            "type": "treasure",
+            "x": -5,
+            "y": -1
+        }
+    ],
+    "goal-condition": {"goal": "exit"}
+}

@@ -1,0 +1,17 @@
+{
+    "entities": [
+        {
+            "x": 1,
+            "y": 0,
+            "type": "player"
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "type": "zombie_toast"
+        }
+    ],
+    "goal-condition": {
+        "goal": "enemies"
+    }
+}

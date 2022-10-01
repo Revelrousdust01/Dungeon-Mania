@@ -1,0 +1,40 @@
+{
+    "entities": [
+        {
+            "type" : "player",
+            "x" : 7,
+            "y" : 7
+        },
+        {
+            "type": "invisibility_potion",
+            "x" : 6, 
+            "y" : 7
+        }, 
+        {
+            "type": "invincibility_potion",
+            "x" : 8, 
+            "y" : 7
+        },
+        {
+            "type" : "wall",
+            "x" : 7,
+            "y" : 6
+        },
+        {
+            "type": "assassin",
+            "x" : 0, 
+            "y" : 0
+        },
+        {
+            "type": "wall",
+            "x": 5,
+            "y": 7
+        },
+        {
+            "type": "treasure",
+            "x": 6,
+            "y": 6
+        }
+    ],
+    "goal-condition": {"goal": "exit"}
+}

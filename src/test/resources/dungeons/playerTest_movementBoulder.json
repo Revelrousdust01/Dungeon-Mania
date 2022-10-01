@@ -1,0 +1,25 @@
+{
+    "entities": [
+        {
+            "type" : "player",
+            "x" : 5,
+            "y" : 0
+        },
+        {
+            "type": "boulder",
+            "x": 4,
+            "y": 0
+        },
+        {
+            "type": "boulder",
+            "x": 6,
+            "y": 0
+        }, 
+        {
+            "type": "wall",
+            "x": 7,
+            "y": 0
+        }
+    ],
+    "goal-condition": {"goal": "exit"}
+}

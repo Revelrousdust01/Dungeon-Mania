@@ -1,0 +1,41 @@
+{
+    "entities": [
+        {
+            "type" : "player",
+            "x" : 0,
+            "y" : 0
+        },
+        {
+            "type": "boulder",
+            "x": 1,
+            "y": 0
+        }, 
+        {
+            "type": "switch",
+            "x": 2,
+            "y": 0
+        }, 
+        {
+            "type": "bomb",
+            "x": 1,
+            "y": -1
+        },
+        {
+            "type": "wood",
+            "x": 3,
+            "y": -2
+        }, 
+        {
+            "type": "bomb",
+            "x": 3,
+            "y": -1
+        },  
+        {
+            "type": "zombie_toast_spawner",
+            "x": 3,
+            "y": 0
+        }
+
+    ],
+    "goal-condition": {"goal": "exit"}
+}

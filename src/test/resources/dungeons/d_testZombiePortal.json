@@ -1,0 +1,68 @@
+{
+    "entities": [
+        {
+            "type" : "player",
+            "x" : 0,
+            "y" : 0
+        },
+        {
+            "type": "zombie_toast",
+            "x": 3,
+            "y": 2
+        },
+        {
+            "type": "portal",
+            "x": 2,
+            "y": 2,
+            "colour" : "red"
+        },
+        {
+            "type": "portal",
+            "x": -3,
+            "y": -1,
+            "colour" : "red"
+        },
+        {
+            "type": "portal",
+            "x": 3,
+            "y": 1,
+            "colour" : "blue"
+        },
+        {
+            "type": "portal",
+            "x": -2,
+            "y": -2,
+            "colour" : "blue"
+        },
+        {
+            "type": "portal",
+            "x": 4,
+            "y": 2,
+            "colour" : "green"
+        },
+        {
+            "type": "portal",
+            "x": -1,
+            "y": -1,
+            "colour" : "green"
+        },
+        {
+            "type": "portal",
+            "x": 3,
+            "y": 3,
+            "colour" : "white"
+        },
+        {
+            "type": "portal",
+            "x": -2,
+            "y": 0,
+            "colour" : "white"
+        },
+        {
+            "type": "exit",
+            "x": 8,
+            "y": 8
+        }
+    ],
+    "goal-condition": {"goal": "exit"}
+}

@@ -1,0 +1,32 @@
+{
+    "entities": [
+        {
+            "type" : "player",
+            "x" : 0,
+            "y" : 0
+        },
+        {
+            "type": "invisibility_potion",
+            "x" : 1, 
+            "y" : 0
+        }, 
+        {
+            "type": "invincibility_potion",
+            "x" : -1, 
+            "y" : 0
+        }, 
+        {
+            "type": "mercenary",
+            "x" : 10, 
+            "y" : 10
+        }, 
+        {
+            "type": "zombie_toast",
+            "x" : -10, 
+            "y" : -10
+        }
+
+
+    ],
+    "goal-condition": {"goal": "exit"}
+}
